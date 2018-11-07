@@ -9,6 +9,11 @@ is briefly outlined here:
 
 https://youtu.be/evGFWRXEzz8?t=214
 
+General Protocol
+
+* For serious cases (e.g. Stage 4 melanoma) 25/5 day cycling of normal/fasting diet.
+* Healthy individuals may only fast 1-2x/year
+
 The macronutrient breakdown of the protocol consists of:
 
 * Day 1 - 1100 calories
