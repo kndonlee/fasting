@@ -9,15 +9,27 @@ is briefly outlined here:
 
 https://youtu.be/evGFWRXEzz8?t=214
 
-The protocol consists of:
+The macronutrient breakdown of the protocol consists of:
 
-* Day 1 - 1100 calories (11/46/43% protein/fat/carb)
-* Day 2-5 - 720 calories (9/44/47% protein/fat/carb) macronutrient breakdown.
+* Day 1 - 1100 calories
+  * 11% Protein
+  * 46% Fat
+  * 43% Carb
+* Day 2-5 - 720 calories
+  * 9% Protein
+  * 44% Fat
+  * 47% Carb
 
 This works out to:
 
-* Day 1 - 30g protein, 56g fat,  118g carb
-* Day 2-5 - 16g protein, 35g fat, 85g carb
+* Day 1
+  * 30g Protein
+  * 56g Fat
+  * 118g Carb
+* Day 2-5
+  * 16g Protein
+  * 35g Fat
+  * 85g Carb
 
 Future TODO:
 
